@@ -150,8 +150,10 @@ usage: RunPipeline.sh <fastq / panel>  REQUIRED PARAMETERS [OPTIONS]
 
 ## Publication
 
+For publication of results, please cite:
+
 **A comprehensive proteogenomic pipeline for neoantigen discovery to advance personalized cancer immunotherapy**  
 Huber F, et al.
-*Nature Biotechnology*, Date, DOI
+*Nature Biotechnology*, 2024, [10.1038/s41587-024-02420-y](https://www.nature.com/articles/s41587-024-02420-y)
 
 ---
